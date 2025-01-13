@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int a = 3;
+    int a = 100;
     int b = 4;
     std::cout << a + b << std::endl;
 }
